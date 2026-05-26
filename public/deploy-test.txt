@@ -1,0 +1,5 @@
+Iron deploy test worked.
+
+If you can see this at /deploy-test.txt, GitHub to Vercel is connected correctly.
+
+Test version: 1
